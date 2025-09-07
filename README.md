@@ -2,7 +2,7 @@
 
 <h3 align="center">As an aspiring software Developer and UI/UX designer, I love solving problems, whether they are in real life or in coding.</h3><br>
 
-<img align="right" alt="coding" width="400px" src="https://www.cartoonbrew.com/wp-content/uploads/2023/05/pavel_1.gif">
+<img align="right" alt="coding" width="400px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9saXYyOWp4eDFxanpzajkzYzBjMWh3Zm1yaGE4YThxNjF1c24xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BGIqWh2R1fi6JDa/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MirzaAleem&label=Profile%20views&color=0e75b6&style=flat" alt="MirzaAleem" /> </p>
 
